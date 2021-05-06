@@ -1,8 +1,3 @@
-# react-soft-tooltip
-A simple and basic React tooltip component for yours projects 
-
-
-
 
 <p align="center">
 
@@ -26,9 +21,12 @@ A simple and basic React tooltip component for yours projects
  
 </p>
 <h1 align="center">
-   React Easyer Tooltip 
+   React Tooltip Soft 
 </h1>
 
+<p align="center"> 
+ A simple and basic React tooltip component for yours projects.  
+</p>
 <p align="left"> 
  Use a Tooltip Easyer when you want to provide an additional explanation about a particular element.  
 </p>
