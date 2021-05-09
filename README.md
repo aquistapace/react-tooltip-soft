@@ -1,17 +1,14 @@
 
 <p align="center">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/aquistapace/dragon-system">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/aquistapace/react-tooltip-soft">
   
-  <a href="https://github.com/aquistapace/dragon-system/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aquistapace/dragon-system">
+  <a href="https://github.com/aquistapace/react-tooltip-soft/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aquistapace/react-tooltip-soft">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   
-   <a href="https://github.com/aquistapace/dragon-system/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/aquistapace/dragon-system?style=social">
-  </a>
+ 
 
   <a href="https://github.com/aquistapace">
     <img alt="Feito por Caroline Aquistapace" src="https://img.shields.io/badge/feito%20por-Caroline-Aquistapace%237519C1">
@@ -41,10 +38,10 @@
 ## ⚙️ Install
 ```bash
 # npm
-  npm install react-easyer-tooltip
+  npm install react-tooltip-soft
 
 # yarn
-  yarn add react-easyer-tooltip
+  yarn add react-tooltip-soft
 ```
 
 
@@ -52,7 +49,7 @@
 
 Import Tooltip Component 
 ```bash
-import {Tooltip} from 'react-easyer-tooltip'
+import {Tooltip} from 'react-tooltip-soft'
 ```
 
 Utilize o componente com qualquer coisa
@@ -85,7 +82,7 @@ disabled| boolean| false| Disables the display of the tooltip when true.| true o
 ### Creating Custom Tooltip
 ```bash
 import React from 'react'
-import {Tooltip} from 'react-easyer-tooltip'
+import {Tooltip} from 'react-tooltip-soft'
 
 const  App = () => {
 	return (
@@ -108,7 +105,7 @@ export default App
 ### Creating a Tooltip without an Arrow
 ```bash
 import React from 'react'
-import {Tooltip} from 'react-easyer-tooltip'
+import {Tooltip} from 'react-tooltip-soft'
 
 const  App = () => {
 	return (
@@ -131,7 +128,7 @@ export default App
 ### Creating a Tooltip with Image as Content
 ```bash
 import React from 'react'
-import {Tooltip} from 'react-easyer-tooltip'
+import {Tooltip} from 'react-tooltip-soft'
 
 const  App = () => {
 	return (
