@@ -60,7 +60,11 @@ Utilize o componente com qualquer coisa
 ```
 ---
 ## Demo
-Exemplo
+<p align="left">
+
+  <img alt="Mobile Home" title="Mobile Home" src="https://github.com/aquistapace/react-tooltip-soft/blob/main/tooltip.gif" width="500px">
+
+</p>
 
 ## 📄 Documentation
 ### Component Props
